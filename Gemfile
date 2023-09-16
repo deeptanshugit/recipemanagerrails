@@ -32,6 +32,7 @@ gem "redis", "~> 4.0"
 
 gem 'devise'
 
+gem 'minitest-reporters', '~> 1.1', '>= 1.1.11'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
